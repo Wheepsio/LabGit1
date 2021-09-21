@@ -1,3 +1,8 @@
 Laba1
 Izmenenie1
+<<<<<<< HEAD
 Izmenenie5
+=======
+Izmenenie2
+Izmenenie3
+>>>>>>> main
